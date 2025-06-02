@@ -15,13 +15,13 @@ A simple and efficient Snowflake database client for Python.
 ### From GitHub (using uv)
 
 ```bash
-uv add git+https://github.com/yourusername/snowflake_client.git
+uv add git+https://github.com/ergodic-ai/snowflake_client.git
 ```
 
 ### From GitHub (using pip)
 
 ```bash
-pip install git+https://github.com/yourusername/snowflake_client.git
+pip install git+https://github.com/ergodic-ai/snowflake_client.git
 ```
 
 ## Quick Start
